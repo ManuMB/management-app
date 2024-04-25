@@ -43,7 +43,7 @@ export default function Home() {
         <table className="table border shadow">
           <thead>
             <tr>
-              <th scope="col">ID</th>
+              <th scope="col">Num</th>
               <th scope="col">Product Name</th>
               <th scope="col">Brand Name</th>
               <th scope="col">Stock</th>
